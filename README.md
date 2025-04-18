@@ -1,0 +1,2 @@
+This predicts analyzes and predicts real estate prices in Bengaluru using a dataset of house listings.
+The project involves data cleaning, feature engineering, and outlier removal to prepare the data for modeling. Key steps include handling missing values, creating new features like price per square foot, and visualizing relationships between variables. The notebook demonstrates a comprehensive approach to building a machine learning model for price prediction.It involves use of OneHotEncoding,LinearRegression, Lasso, Decision Tree and GridsearchCV.
